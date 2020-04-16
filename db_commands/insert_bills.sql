@@ -1,0 +1,1 @@
+insert into bill values('HR8', 115, 'Bipartisan Background Checks Act', 2019);

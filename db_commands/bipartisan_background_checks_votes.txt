@@ -1,0 +1,434 @@
+Adams
+Aguilar
+Allred
+Axne
+Barragán
+Bass
+Beatty
+Bera
+Beyer
+Bishop (GA)
+Blumenauer
+Blunt Rochester
+Bonamici
+Boyle, Brendan F.
+Brindisi
+Brown (MD)
+Brownley (CA)
+Buchanan
+Bustos
+Butterfield
+Carbajal
+Cárdenas
+Carson (IN)
+Cartwright
+Case
+Casten (IL)
+Castor (FL)
+Castro (TX)
+Chu, Judy
+Cicilline
+Cisneros
+Clark (MA)
+Clarke (NY)
+Clay
+Cleaver
+Clyburn
+Cohen
+Connolly
+Cooper
+Correa
+Costa
+Courtney
+Cox (CA)
+Craig
+Crist
+Crow
+Cuellar
+Cummings
+Cunningham
+Davids (KS)
+Davis (CA)
+Davis, Danny K.
+Dean
+DeFazio
+DeGette
+DeLauro
+DelBene
+Delgado
+Demings
+DeSaulnier
+Deutch
+Diaz-Balart
+Dingell
+Doggett
+Doyle, Michael F.
+Engel
+Escobar
+Eshoo
+Espaillat
+Evans
+Finkenauer
+Fitzpatrick
+Fletcher
+Foster
+Fudge
+Gabbard
+Gallego
+Garamendi
+García (IL)
+Garcia (TX)
+Gomez
+Gonzalez (TX)
+Gottheimer
+Green (TX)
+Grijalva
+Haaland
+Harder (CA)
+Hastings
+Hayes
+Heck
+Higgins (NY)
+Hill (CA)
+Himes
+Horn, Kendra S.
+Horsford
+Houlahan
+Hoyer
+Huffman
+Hurd (TX)
+Jackson Lee
+Jayapal
+Jeffries
+Johnson (GA)
+Johnson (TX)
+Kaptur
+Keating
+Kelly (IL)
+Kennedy
+Khanna
+Kildee
+Kilmer
+Kim
+Kind
+King (NY)
+Kirkpatrick
+Krishnamoorthi
+Kuster (NH)
+Lamb
+Langevin
+Larsen (WA)
+Larson (CT)
+Lawrence
+Lawson (FL)
+Lee (CA)
+Lee (NV)
+Levin (CA)
+Levin (MI)
+Lewis
+Lieu, Ted
+Lipinski
+Loebsack
+Lofgren
+Lowenthal
+Lowey
+Luján
+Luria
+Lynch
+Malinowski
+Maloney, Carolyn B.
+Maloney, Sean
+Mast
+Matsui
+McAdams
+McBath
+McCollum
+McEachin
+McGovern
+McNerney
+Meeks
+Meng
+Moore
+Morelle
+Moulton
+Mucarsel-Powell
+Murphy
+Nadler
+Napolitano
+Neal
+Neguse
+Norcross
+OHalleran
+Ocasio-Cortez
+Omar
+Pallone
+Panetta
+Pappas
+Pascrell
+Payne
+Pelosi
+Perlmutter
+Peters
+Phillips
+Pingree
+Pocan
+Porter
+Pressley
+Price (NC)
+Quigley
+Raskin
+Rice (NY)
+Richmond
+Rose (NY)
+Rouda
+Roybal-Allard
+Ruiz
+Ruppersberger
+Rush
+Ryan
+Sánchez
+Sarbanes
+Scanlon
+Schakowsky
+Schiff
+Schneider
+Schrader
+Schrier
+Scott (VA)
+Scott, David
+Serrano
+Sewell (AL)
+Shalala
+Sherman
+Sherrill
+Sires
+Slotkin
+Smith (NJ)
+Smith (WA)
+Soto
+Spanberger
+Speier
+Stanton
+Stevens
+Suozzi
+Swalwell (CA)
+Takano
+Thompson (CA)
+Thompson (MS)
+Titus
+Tlaib
+Tonko
+Torres (CA)
+Torres Small (NM)
+Trahan
+Trone
+Underwood
+Upton
+Van Drew
+Vargas
+Veasey
+Vela
+Velázquez
+Visclosky
+Wasserman Schultz
+Waters
+Watson Coleman
+Welch
+Wexton
+Wild
+Wilson (FL)
+Yarmuth
+
+Abraham
+Aderholt
+Allen
+Amash
+Amodei
+Armstrong
+Arrington
+Babin
+Bacon
+Baird
+Balderson
+Banks
+Barr
+Bergman
+Biggs
+Bilirakis
+Bishop (UT)
+Bost
+Brady
+Brooks (AL)
+Brooks (IN)
+Buck
+Bucshon
+Budd
+Burchett
+Burgess
+Byrne
+Calvert
+Carter (GA)
+Carter (TX)
+Chabot
+Cheney
+Cline
+Cloud
+Cole
+Collins (GA)
+Collins (NY)
+Comer
+Conaway
+Cook
+Crawford
+Crenshaw
+Curtis
+Davidson (OH)
+Davis, Rodney
+DesJarlais
+Duffy
+Duncan
+Dunn
+Emmer
+Estes
+Ferguson
+Fleischmann
+Flores
+Fortenberry
+Foxx (NC)
+Fulcher
+Gaetz
+Gallagher
+Gianforte
+Gibbs
+Gohmert
+Golden
+Gonzalez (OH)
+Gooden
+Gosar
+Granger
+Graves (GA)
+Graves (LA)
+Graves (MO)
+Green (TN)
+Griffith
+Grothman
+Guest
+Guthrie
+Hagedorn
+Harris
+Hartzler
+Hern, Kevin
+Herrera Beutler
+Hice (GA)
+Higgins (LA)
+Hill (AR)
+Holding
+Hollingsworth
+Hudson
+Huizenga
+Hunter
+Johnson (LA)
+Johnson (OH)
+Johnson (SD)
+Jordan
+Joyce (OH)
+Joyce (PA)
+Kelly (MS)
+Kelly (PA)
+King (IA)
+Kinzinger
+Kustoff (TN)
+LaHood
+LaMalfa
+Lamborn
+Latta
+Lesko
+Long
+Loudermilk
+Lucas
+Luetkemeyer
+Marchant
+Marshall
+Massie
+McCarthy
+McCaul
+McClintock
+McHenry
+McKinley
+Meadows
+Meuser
+Miller
+Mitchell
+Moolenaar
+Mooney (WV)
+Mullin
+Newhouse
+Norman
+Nunes
+Olson
+Palazzo
+Palmer
+Pence
+Perry
+Peterson
+Posey
+Ratcliffe
+Reed
+Reschenthaler
+Rice (SC)
+Riggleman
+Roby
+Rodgers (WA)
+Roe, David P.
+Rogers (AL)
+Rogers (KY)
+Rooney (FL)
+Rose, John W.
+Rouzer
+Roy
+Rutherford
+Scalise
+Schweikert
+Scott, Austin
+Sensenbrenner
+Shimkus
+Simpson
+Smith (MO)
+Smith (NE)
+Smucker
+Spano
+Stauber
+Stefanik
+Steil
+Steube
+Stewart
+Stivers
+Taylor
+Thompson (PA)
+Thornberry
+Timmons
+Tipton
+Turner
+Wagner
+Walberg
+Walden
+Walker
+Walorski
+Waltz
+Watkins
+Weber (TX)
+Webster (FL)
+Wenstrup
+Westerman
+Williams
+Wilson (SC)
+Wittman
+Womack
+Woodall
+Wright
+Yoho
+Young
+Zeldin
+
+Frankel
+Katko
