@@ -98,8 +98,8 @@ def make_house_districts():
         'WV': 'West Virginia',
         'WY': 'Wyoming'
     }
-    f = open('current_house.txt')
-    f2 = open('insert_districts.sql', 'w')
+    f = open('./textToParse/current_house.txt')
+    f2 = open('./sqlCommands/insert_districts.sql', 'w')
     for rep in f.read().split('|-')[1:]:
         state, dist = rep.split('|')[2:4]
         f2.write('insert into district(state, name, chamber) values(\'' + states[state]
@@ -109,8 +109,8 @@ def make_house_districts():
 
 
 def make_house_reps():
-    fr = open('current_house.txt', 'r')
-    fw = open('make_house.sql', 'w')
+    fr = open('./textToParse/current_house.txt', 'r')
+    fw = open('./sqlCommands/make_house.sql', 'w')
 
     for rep in fr.read().split('|-')[1:]:
         try:
